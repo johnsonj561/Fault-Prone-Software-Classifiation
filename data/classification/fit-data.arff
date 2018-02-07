@@ -14,7 +14,7 @@
 @attribute numuors numeric
 @attribute numuands numeric
 @attribute tototors numeric
-@attribute totopands numberic
+@attribute totopands numeric
 @attribute vg numeric
 @attribute nlogic numeric
 @attribute loc numeric
